@@ -17,21 +17,6 @@
       "firstName": "Charles",
       "age": 40,
       "companyId": "2"
-    },
-    {
-      "firstName": "Bob",
-      "age": 50,
-      "id": "AYeBzlf"
-    },
-    {
-      "firstName": "Bob",
-      "age": 50,
-      "id": "dvfM7Zj"
-    },
-    {
-      "firstName": "Alpha",
-      "age": 35,
-      "id": "PDzxpjY"
     }
   ],
   "companies": [
